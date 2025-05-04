@@ -4,7 +4,7 @@
 	"author": [
 		"nnmrts"
 	],
-	"description": "balatro mod to sort stuff in menus",
+	"description": "balatro mod that sorts stuff in menus",
 	"prefix": "sortatro",
 	"main_file": "sortatro.lua",
 	"version": "0.1.0"
