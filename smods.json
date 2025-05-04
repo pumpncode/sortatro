@@ -1,0 +1,11 @@
+{
+	"id": "sortatro",
+	"name": "sortatro",
+	"author": [
+		"nnmrts"
+	],
+	"description": "balatro mod to sort stuff in menus",
+	"prefix": "sortatro",
+	"main_file": "sortatro.lua",
+	"version": "0.1.0"
+}
