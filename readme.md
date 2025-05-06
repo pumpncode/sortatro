@@ -2,4 +2,4 @@
 
 balatro mod that sorts stuff in menus
 
-currently just a POC, sorts jokers by alerted/discovered state
+currently just a POC, sorts everything in collection by alerted/discovered state
